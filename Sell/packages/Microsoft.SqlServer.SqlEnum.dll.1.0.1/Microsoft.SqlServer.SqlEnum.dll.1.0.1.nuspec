@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.SqlServer.SqlEnum.dll</id>
+    <version>1.0.1</version>
+    <title>SqlEnum Library for SQL Server 2008</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>https://www.microsoft.com/Licensing/servicecenter/default.aspx</licenseUrl>
+    <projectUrl>https://www.microsoft.com/en-US/download/details.aspx?id=1695</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Unofficial SqlEnum Library for SQL Server 2008</description>
+    <summary>Unofficial SqlEnum Library for SQL Server 2008</summary>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>SQL Server SQLEnum</tags>
+  </metadata>
+</package>

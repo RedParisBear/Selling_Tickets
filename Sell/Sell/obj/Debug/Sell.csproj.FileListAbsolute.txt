@@ -1,0 +1,39 @@
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Sell.exe.config
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Sell.exe
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Sell.pdb
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form1.resources
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Properties.Resources.resources
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.csproj.GenerateResource.Cache
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.exe
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.pdb
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form2.resources
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form3.resources
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form4.resources
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form5.resources
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.SQLTask.dll
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Maria\Documents\University\3 курс. 1 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Sell.exe.config
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.exe
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.pdb
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Sell.exe
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Sell.pdb
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form1.resources
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form2.resources
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form3.resources
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form4.resources
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Form5.resources
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.Properties.Resources.resources
+C:\Users\Maria\Documents\University\3 курс. 5 семестр\Технологии разработки ПО\Sell\Sell\obj\Debug\Sell.csproj.GenerateResource.Cache
+C:\Users\Maria\Documents\GitHub\Selling_Tickets\Sell\Sell\bin\Debug\Sell.exe.config
+C:\Users\Maria\Documents\GitHub\Selling_Tickets\Sell\Sell\obj\Debug\Sell.exe
+C:\Users\Maria\Documents\GitHub\Selling_Tickets\Sell\Sell\obj\Debug\Sell.pdb
